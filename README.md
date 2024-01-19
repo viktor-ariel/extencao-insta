@@ -20,32 +20,12 @@ I hope this fulfills your requirements! Always adhere to the guidelines and usag
 If you have any questions, feel free to reach out to me: [My Social Media](https://viktorarielbr.com.br/)
 
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
-
-<br> <br><br><br><br><br>Instagram Photo Downloader Extension
-Overview
-
-This extension simplifies the process of downloading photos from Instagram. Follow the steps below to get started:
-
-Download the Extension:
-
-    Download the extension directly from this repository.
-
-Installation:
-
-    Follow the installation instructions provided for your preferred browser.
-
-How to Use:
-
-    After installation, clicking on a photo in Instagram will reveal a download button.
-
-Important Note
-
-Ensure that you use this extension ethically and in compliance with Instagram's terms of service.
-
-I hope this fulfills your requirements! Always adhere to the guidelines and usage policies of the platform when developing extensions. 🌐📸
-
-If you have any questions, feel free to reach out to me: My Social Media
 ----------------------------------------------------pt/br-----------------------------------------------------------------------------------------------------
 
 
