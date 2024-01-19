@@ -1,0 +1,28 @@
+{
+    "manifest_version" : 2,
+    "name":"Download insta",
+    "version":"1.0",
+    "description":"Baixar Foto do Insta",
+
+    "backgroud":{
+        "scripts":["src/backgroud.js"],
+        "persistent":false
+    },
+    
+    
+    "browser_action": {
+        "default_title":"Download Insta",
+        "default_popup": "index.html"
+    },
+    "content_scripts":[
+        {
+            "js":[
+                "src/components/buttonDownload.js",
+                "src/main.js"
+            ],
+            "matches":[
+                "https://www.instagram.com/*"
+            ]
+        }
+    ]
+}
