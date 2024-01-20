@@ -17,6 +17,7 @@
     "content_scripts":[
         {
             "js":[
+                "src/service/downloadImage.js",
                 "src/components/buttonDownload.js",
                 "src/main.js"
             ],
