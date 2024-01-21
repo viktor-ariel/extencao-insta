@@ -20,6 +20,8 @@ I hope this fulfills your requirements! Always adhere to the guidelines and usag
 If you have any questions, feel free to reach out to me: [My Social Media](https://viktorarielbr.com.br/)
 
 
+<p>Preview</p>
+<img src="image/1.png">
 <br>
 <br>
 <br>
@@ -53,4 +55,6 @@ Espero que isso atenda às suas necessidades! Lembre-se sempre de seguir as dire
 
 Se tiver alguma duvida me mande uma menssagem: [Minhas redes](https://viktorarielbr.com.br/)
 
+<p>Preview</p>
+<img src="image/1.png">
 
